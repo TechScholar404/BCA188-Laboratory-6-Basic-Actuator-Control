@@ -9,6 +9,8 @@ Overall, the HW-095 L298N motor driver responded correctly to the button input. 
 
 <img width="1280" height="1310" alt="09d63366-d14f-49bf-b5b5-aac0c67cf510" src="https://github.com/user-attachments/assets/0da9115a-00a6-4d3e-bb1e-1556104e5252" />
 
+<img width="537" height="705" alt="Lab 6" src="https://github.com/user-attachments/assets/453842f1-3a02-4210-8cdb-8473ec1807b1" />
 
 
-<img width="928" height="1476" alt="d0093aeb-7ceb-401a-86a0-7ad90dae6d24 (2)" src="https://github.com/user-attachments/assets/e57438c1-94e7-4f92-990a-a6d9ded2c5ea" />
+
+
